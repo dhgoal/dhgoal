@@ -4,33 +4,11 @@
 
 <br clear="both">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=full-stack%20developer;+8%2B%20years%20of%20professional%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
-  </a>
-</p>
-
-<br clear="both">
-
-<div align="center">
-  <!--<a href="https://www.linkedin.com/in/juraj-pusic" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
-  <a href="https://twitter.com/juracija" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>-->
-  <a href="mailto:dhgoal0120@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" />
-  </a>
-  <!--<a href="https://t.me/jurapusic056" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  <a href="https://join.skype.com/invite/Cwkygw8rMRwL" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/skype.png"  width="50" /></a>
-  <a href="https://discord.gg/M7VTBHJb" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/discord.png"  width="50" /></a>
-  <a href="https://juraj-pusic.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>-->
-</div>
-
-###
-
 <h3 align="left">👩‍💻  Technical Skills</h3>
 
 ###
 
-<p align="left">- 🔭 Frontend : Angular, React/React Native, Next.js, Vue.js, Nuxt.js, gRPC, Protobuf<br>- 👨‍💻 Backend : Express, Django, Laravel, Spring Boot<br>- 💬 Database : MongoDB, PostgreSQL, Redis, MySQL, GraphQL, Amazon Redshift<br>- 📫 Languages : Go, Python, JavaScript/TypeScript, C/C++, Java, PHP<br>- 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, NFT</p>
+<p align="left">- 🔭 Frontend : Angular, React/React Native, Next.js, Vue.js, Nuxt.js, gRPC, Protobuf<br>- 👨‍💻 Backend : Express, Django, Laravel, Spring Boot, Flask, FastAPI<br>- 💬 Database : MongoDB, PostgreSQL, Redis, MySQL, GraphQL, BigQuery, Amazon Redshift<br>- 📫 Languages : Go, Python, JavaScript/TypeScript, C/C++, Java, PHP<br>- 🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana, NFT</p>
 
 ###
 
