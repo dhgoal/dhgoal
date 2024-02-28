@@ -2,14 +2,6 @@
 
 <h1 align="center">👋 Hi, I'm a full-stack developer 👋</h1>
 
-###
-
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <p align="center">
