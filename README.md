@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  Technical Skills </h3>
+<h3 align="left">👩‍💻  Technical Skills  </h3>
 
 ###
 
