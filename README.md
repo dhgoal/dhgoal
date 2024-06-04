@@ -63,7 +63,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo "  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
