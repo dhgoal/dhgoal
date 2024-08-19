@@ -75,8 +75,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/electron/47848F" height="40" alt="electron logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
