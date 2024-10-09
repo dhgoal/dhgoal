@@ -1,9 +1,3 @@
-<br clear="both">
-
-<h1 align="center">👋 Hi, I'm a senior full-stack developer 👋</h1>
-
-<br clear="both">
-
 <h3 align="left">👩‍💻  Technical Skills  </h3>
 
 ###
