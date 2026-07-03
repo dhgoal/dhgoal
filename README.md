@@ -1,4 +1,4 @@
-### Hi, I'm dhgoal 👋
+### Hi, I'm a developer 👋
 
 Generalist software engineer working across **Rust, TypeScript, Python, and Go**.
 
